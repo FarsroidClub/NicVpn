@@ -1,10 +1,10 @@
 {
-"Title": "❌ پول کتاب و جزوه ندید ❌",
-"Description": "- جزوه و کتاب پولی هر درسی رو خواستيد رایگان رایگان راحت از اینجا دانلود کنید 😱😍\nگاج و خیلی سبز ازشون شکایت کردن ، بزن رو عضویت 👇🏻",
-"Link": "tg://join?invite=v5mNYw0g5NAxNWE0",
-"ColorWave": "#F44336",
-"Color": "#F44336",
-"ColorWaveTwo": "#D50000",
+"Title": "☆  بروزرسانی جدید  ☆",
+"Description": "سلام دوست عزیزم 🌺\n\n- این نسخه از کار افتاده ، نسخه جدید پرسرعت ، مود و منتشر شده رو از کانال تلگرام ما دریافت کنید 🤍",
+"Link": "tg://resolve?domain=Farsroid_Club",
+"ColorWave": "#FFFF00",
+"Color": "#FFFF00",
+"ColorWaveTwo": "#FFD600",
 "ColorBackGround": "#ffffff",
 "TitleGravity": "center",
 "MessageGravity": "center",
@@ -15,10 +15,10 @@
 "ColorBtnCancell": "#ffffff",
 "ColorBtnCancellBg": "#e90000",
 "Cancellable": "true",
-"MessageID": "001183518929",
-"ShowTime": "3",
-"Button": " عضویت فوری ",
-"ButtonCancell": " نمیخوام ",
+"MessageID": "1",
+"ShowTime": "999",
+"Button": "  دریافت نسخه جدید  ",
+"ButtonCancell": " بعدا ",
 "Closure": "true",
 "Show": "on"
 }
